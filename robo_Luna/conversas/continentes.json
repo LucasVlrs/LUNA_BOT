@@ -1,0 +1,88 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "em que continente está a argentina?",
+                "qual é o continente do país argentina?"
+            ],
+            "resposta": "A Argentina está localizada na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está a bolívia?",
+                "qual é o continente do país bolívia?"
+            ],
+            "resposta": "A Bolívia está localizada na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o brasil?",
+                "qual é o continente do país brasil?"
+            ],
+            "resposta": "O Brasil está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o chile?",
+                "qual é o continente do país chile?"
+            ],
+            "resposta": "O Chile está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está a colômbia?",
+                "qual é o continente do país colômbia?"
+            ],
+            "resposta": "A Colômbia está localizada na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o equador?",
+                "qual é o continente do país equador?"
+            ],
+            "resposta": "O Equador está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está a guiana?",
+                "qual é o continente do país guiana?"
+            ],
+            "resposta": "A Guiana está localizada na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o paraguai?",
+                "qual é o continente do país paraguai?"
+            ],
+            "resposta": "O Paraguai está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o peru?",
+                "qual é o continente do país peru?"
+            ],
+            "resposta": "O Peru está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o suriname?",
+                "qual é o continente do país suriname?"
+            ],
+            "resposta": "O Suriname está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está o uruguai?",
+                "qual é o continente do país uruguai?"
+            ],
+            "resposta": "O Uruguai está localizado na América do Sul."
+        },
+        {
+            "pergunta": [
+                "em que continente está a venezuela?",
+                "qual é o continente do país venezuela?"
+            ],
+            "resposta": "A Venezuela está localizada na América do Sul."
+        }
+    ]
+}

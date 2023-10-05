@@ -1,0 +1,74 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "qual é a moeda do brasil?",
+                "qual é a moeda oficial do brasil?"
+            ],
+            "resposta": "A moeda do Brasil é o real."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda da argentina?",
+                "qual é a moeda oficial da argentina?"
+            ],
+            "resposta": "A moeda da Argentina é o peso argentino."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda da colômbia?",
+                "qual é a moeda oficial da colômbia?"
+            ],
+            "resposta": "A moeda da Colômbia é o peso colombiano."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda do peru?",
+                "qual é a moeda oficial do peru?"
+            ],
+            "resposta": "A moeda do Peru é o sol."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda do chile?",
+                "qual é a moeda oficial do chile?"
+            ],
+            "resposta": "A moeda do Chile é o peso chileno."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda do equador?",
+                "qual é a moeda oficial do equador?"
+            ],
+            "resposta": "A moeda do Equador é o dólar americano."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda da bolívia?",
+                "qual é a moeda oficial da bolívia?"
+            ],
+            "resposta": "A moeda da Bolívia é o boliviano."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda do paraguai?",
+                "qual é a moeda oficial do paraguai?"
+            ],
+            "resposta": "A moeda do Paraguai é o guarani."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda do uruguai?",
+                "qual é a moeda oficial do uruguai?"
+            ],
+            "resposta": "A moeda do Uruguai é o peso uruguaio."
+        },
+        {
+            "pergunta": [
+                "qual é a moeda da venezuela?",
+                "qual é a moeda oficial da venezuela?"
+            ],
+            "resposta": "A moeda da Venezuela é o bolívar soberano."
+        }
+    ]
+}

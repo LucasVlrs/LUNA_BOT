@@ -1,0 +1,76 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "qual o idioma falado na argentina?"
+            ],
+            "resposta": "O espanhol é o idioma oficial da Argentina."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado na bolívia?"
+            ],
+            "resposta": "O espanhol e o quíchua são os idiomas oficiais da Bolívia."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no brasil?"
+            ],
+            "resposta": "O português é o idioma oficial do Brasil."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no chile?"
+            ],
+            "resposta": "O espanhol é o idioma oficial do Chile."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado na colômbia?"
+            ],
+            "resposta": "O espanhol é o idioma oficial da Colômbia."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no equador?"
+            ],
+            "resposta": "O espanhol é o idioma oficial do Equador."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado na guiana?"
+            ],
+            "resposta": "O inglês é o idioma oficial da Guiana."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no paraguai?"
+            ],
+            "resposta": "O espanhol e o guarani são os idiomas oficiais do Paraguai."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no peru?"
+            ],
+            "resposta": "O espanhol e várias línguas indígenas são os idiomas oficiais do Peru."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no suriname?"
+            ],
+            "resposta": "O holandês é o idioma oficial do Suriname."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado no uruguai?"
+            ],
+            "resposta": "O espanhol é o idioma oficial do Uruguai."
+        },
+        {
+            "pergunta": [
+                "qual o idioma falado na venezuela?"
+            ],
+            "resposta": "O espanhol é o idioma oficial da Venezuela."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "oi",
+                "olá",
+                "tudo bem ?"
+            ],
+            "resposta": "Olá, sou a robô guia geográfica Luna, o que você deseja saber ?"
+        },
+        {
+            "pergunta": [
+                "bom dia"
+            ],
+            "resposta": "Bom dia, sou a robô guia geográfica Luna, o que você deseja saber ?"
+        },
+        {
+            "pergunta": [
+                "boa tarde"
+            ],
+            "resposta": "Boa tarde, sou a robô guia geográfica Luna, o que você deseja saber ?"
+        },
+        {
+            "pergunta": [
+                "boa noite"
+            ],
+            "resposta": "Boa noite, sou a robô guia geográfica Luna, o que você deseja saber ?"
+        }
+    ]
+}

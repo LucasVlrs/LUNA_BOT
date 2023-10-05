@@ -1,0 +1,76 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "qual é a capital da argentina?"
+            ],
+            "resposta": "A capital da Argentina é Buenos Aires."
+        },
+        {
+            "pergunta": [
+                "qual é a capital da bolívia?"
+            ],
+            "resposta": "A capital da Bolívia é Sucre (oficial) e La Paz (sede do governo)."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do brasil?"
+            ],
+            "resposta": "A capital do Brasil é Brasília."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do chile?"
+            ],
+            "resposta": "A capital do Chile é Santiago."
+        },
+        {
+            "pergunta": [
+                "qual é a capital da colômbia?"
+            ],
+            "resposta": "A capital da Colômbia é Bogotá."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do equador?"
+            ],
+            "resposta": "A capital do Equador é Quito."
+        },
+        {
+            "pergunta": [
+                "qual é a capital da guiana?"
+            ],
+            "resposta": "A capital da Guiana é Georgetown."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do paraguai?"
+            ],
+            "resposta": "A capital do Paraguai é Assunção."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do peru?"
+            ],
+            "resposta": "A capital do Peru é Lima."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do suriname?"
+            ],
+            "resposta": "A capital do Suriname é Paramaribo."
+        },
+        {
+            "pergunta": [
+                "qual é a capital do uruguai?"
+            ],
+            "resposta": "A capital do Uruguai é Montevidéu."
+        },
+        {
+            "pergunta": [
+                "qual é a capital da venezuela?"
+            ],
+            "resposta": "A capital da Venezuela é Caracas."
+        }
+    ]
+}

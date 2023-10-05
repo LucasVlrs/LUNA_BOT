@@ -1,0 +1,64 @@
+{
+    "conversas": [
+        {
+            "pergunta": [
+                "qual é a população do brasil?"
+            ],
+            "resposta": "A população do Brasil é de aproximadamente 213 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população da argentina?"
+            ],
+            "resposta": "A população da Argentina é de aproximadamente 45 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população da colômbia?"
+            ],
+            "resposta": "A população da Colômbia é de aproximadamente 50 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população do peru?"
+            ],
+            "resposta": "A população do Peru é de aproximadamente 33 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população do chile?"
+            ],
+            "resposta": "A população do Chile é de aproximadamente 19 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população do equador?"
+            ],
+            "resposta": "A população do Equador é de aproximadamente 17 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população da bolívia?"
+            ],
+            "resposta": "A população da Bolívia é de aproximadamente 11 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população do paraguai?"
+            ],
+            "resposta": "A população do Paraguai é de aproximadamente 7 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população do uruguai?"
+            ],
+            "resposta": "A população do Uruguai é de aproximadamente 3 milhões de pessoas."
+        },
+        {
+            "pergunta": [
+                "qual é a população da venezuela?"
+            ],
+            "resposta": "A população da Venezuela é de aproximadamente 28 milhões de pessoas."
+        }
+    ]
+}
